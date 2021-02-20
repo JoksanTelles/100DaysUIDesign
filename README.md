@@ -2,7 +2,8 @@
 
 This is the place where I'll publish all my works in this challenge.
 
-Because my UI Design skills sucks, I'm not consistently at all, but that not means that I won't end this challenge.
+Because my UI Design skills sucks, I'm not consistently at all, but I won't give up until the end.
 
-Soy I'm stay here doing different kind of works :D
+So I'm stay here doing different kind of works :D
 
+You can visit this Website to [see my projects](https://joksantelles.github.io/100DaysUIDesign/) on DailyUI challenge.
