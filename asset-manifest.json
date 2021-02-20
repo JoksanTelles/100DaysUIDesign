@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/100DaysUIDesign/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/100DaysUIDesign/static/js/main.e5eb1d5e.chunk.js",
+    "main.js.map": "/100DaysUIDesign/static/js/main.e5eb1d5e.chunk.js.map",
+    "runtime-main.js": "/100DaysUIDesign/static/js/runtime-main.6b0573f2.js",
+    "runtime-main.js.map": "/100DaysUIDesign/static/js/runtime-main.6b0573f2.js.map",
+    "static/js/2.8b45d93b.chunk.js": "/100DaysUIDesign/static/js/2.8b45d93b.chunk.js",
+    "static/js/2.8b45d93b.chunk.js.map": "/100DaysUIDesign/static/js/2.8b45d93b.chunk.js.map",
+    "static/js/3.38ccc91b.chunk.js": "/100DaysUIDesign/static/js/3.38ccc91b.chunk.js",
+    "static/js/3.38ccc91b.chunk.js.map": "/100DaysUIDesign/static/js/3.38ccc91b.chunk.js.map",
+    "index.html": "/100DaysUIDesign/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/100DaysUIDesign/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8b45d93b.chunk.js.LICENSE.txt": "/100DaysUIDesign/static/js/2.8b45d93b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/100DaysUIDesign/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b0573f2.js",
+    "static/js/2.8b45d93b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e5eb1d5e.chunk.js"
+  ]
+}
